@@ -5,5 +5,6 @@ Projects made with OpenCV Python
 Two simple computer vision projects with Python OpenCV
 - Colour Detection
 - Movement Detection
+- Image Thresholding
 
-These projects were inspired by the YouTube channel Programming Hero
+These projects were inspired by the YouTube channels Programming Hero and NeuralNine
