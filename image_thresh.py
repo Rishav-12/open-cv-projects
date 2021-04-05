@@ -1,7 +1,7 @@
 import cv2
 
 # Load and prepare the image
-img = cv2.imread("assets/bookpage.jpeg", 0)
+img = cv2.imread("bookpage.jpeg", 0)
 img = cv2.resize(img, (0, 0), fx = 0.7, fy = 0.7)
 img = cv2.rotate(img, cv2.ROTATE_90_COUNTERCLOCKWISE)
 
