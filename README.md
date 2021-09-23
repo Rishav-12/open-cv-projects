@@ -6,4 +6,4 @@ Two simple computer vision projects with Python OpenCV
 - Colour Detection
 - Movement Detection
 
-These projects were inspired by the YouTube channel Programming Hero
+These projects are inspired by the YouTube channels Programming Hero and NeuralNine
